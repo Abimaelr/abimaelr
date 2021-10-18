@@ -6,7 +6,8 @@
 - 🖥️ React
 - 📲 React-Native
 - 🤖 Embedded Systems (Arduino, ESP, Raspberry Pi)
-- 🔙 Now I'm Learning about BackEnd Development
+- 🔙 BackEnd Developer (Node, Express, MongoDB, MySQL, Mongoose)
+- 🐍 Python
 - 🎒 Student at @betrybe
 
 My hobbies are:
