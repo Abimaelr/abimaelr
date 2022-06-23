@@ -8,12 +8,6 @@
 - 🤖 Embedded Systems (Arduino, ESP, Raspberry Pi)
 - 🔙 BackEnd Developer (Node, Express, MongoDB, MySQL, Mongoose)
 - 🐍 Python
-- 🎒 Student at @betrybe
-
-My hobbies are:
-
-- 📷 Take photos of the nature :D
-- 🎶 Play guitar and piano :)
 
 Thank you 😀
 
